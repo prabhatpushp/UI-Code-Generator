@@ -11,7 +11,7 @@ The UI Code Generator is a Python-based tool that generates HTML layouts based o
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/prabhatpushp/UI-Code-Generator
    cd UI Code Generator
    ```
 2. Set up a virtual environment:
