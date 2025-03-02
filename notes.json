@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "button"
+    },
+    {
+      "id": 1,
+      "name": "div"
+    },
+    {
+      "id": 2,
+      "name": "div-bg"
+    },
+    {
+      "id": 3,
+      "name": "footer"
+    },
+    {
+      "id": 4,
+      "name": "grid"
+    },
+    {
+      "id": 5,
+      "name": "header"
+    },
+    {
+      "id": 6,
+      "name": "heading"
+    },
+    {
+      "id": 7,
+      "name": "icon"
+    },
+    {
+      "id": 8,
+      "name": "image"
+    },
+    {
+      "id": 9,
+      "name": "input"
+    },
+    {
+      "id": 10,
+      "name": "list"
+    },
+    {
+      "id": 11,
+      "name": "paragraph"
+    },
+    {
+      "id": 12,
+      "name": "section"
+    },
+    {
+      "id": 13,
+      "name": "span"
+    },
+    {
+      "id": 14,
+      "name": "text"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
